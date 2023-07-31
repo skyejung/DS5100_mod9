@@ -7,4 +7,4 @@ setup(name='test_package',
       author='Skye',
       author_email='hsj5sn@virginia.edu',
       license='MIT',
-      packages=find_packages())
+      packages=['test'])

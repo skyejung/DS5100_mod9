@@ -1,4 +1,3 @@
-def joke():
-    "This function just tells a joke. Or tries to."
-    return (u'Wenn ist das Nunst\u00fcck git und Slotermeyer? Ja! ... '
-            u'Beiherhund das Oder die Flipperwaldt gersput.')
+def test_fun():
+    "This function prints confirmation that I did this in-class exercise correctly"
+    return ('Yay!')
